@@ -58,8 +58,8 @@ class MyStatefulWidget extends StatefulWidget {
 /* Declaração de uma variável tipo enumeration (enum), composta
 de três valores usados no Radio Widget.
 */
-
 enum radioValue { carreto, retirada, correio }
+
 
 /* Implementação do objeto tipo State.
 */
